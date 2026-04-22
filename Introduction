@@ -22,6 +22,20 @@
 >  JIRA PLATFORMS ?
 -- Two platform deployment types are there - a> Cloud
                                              b> Data Center
+   a> Cloud - It is super easy to set up for Cloud. 
+              We never have to worry about any maintenance work such as upgrades, security, scalability etc. All of that will be managed and taken care of. 
+              It will come with a subscription cost either monthly or annual basis. 
+
+   b> Data Center - It needes to be done by ourselves. 
+                    We will be responsible for upgrade, security and performance. 
+                    We need to install it by ourselves. 
+                    One time installation fee + ongoing support fees will be needed. 
+                    As we will be responsible for everything, we can customize things as well. 
+                    
+
+
+
+
 
 
 
