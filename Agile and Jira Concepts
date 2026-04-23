@@ -97,6 +97,11 @@ a> To Do --> b> In progress --> Done
    In Progress - Here, in kanban we can set limit. If the limit is set to 1 then we can't add more that one task under this work in progress column.
    Done - After completing we can move the task to done column.
 
+> EXAMPLES 
+-- SCRUM -> mainly use for projects with defined features, where we know what to do and the time estimation as well. 
+   KKANBAN -> Mainly use for support projects, unpredictable development. 
+
+
 
    
    
