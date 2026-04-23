@@ -1,1 +1,34 @@
 
+AGILE AND JIRA CONCEPTS !!
+
+> WHAT IS AGILE ?
+-- Agile is a software development methodology. 
+   It has an iterative approach to development. 
+   Building and releasing software incrementally from the start of the project, rather releasing all at once in the end. 
+   This ierative approach involves planning and developing iteration, implementing the work planned for that iteration and delivering the version of the product by the end. 
+   Feedback is then gathered, and used to plan the next iteration. 
+   This process continues until the product is fully completed. 
+   This process allows the team to adapt the changing requirements. 
+   Suppose, If some requirements change as the iterations are relatively short we can manage that in the next iteration. 
+   Keeps the development flexible.
+   At the end of iteration, we need to deliver a group of features for customer satisfaction, so they can test the features and give feedbacks. 
+
+   Basically, Agile is [ ITERATION PLANNING > IMPLEMENTATION > DELIVERY AND FEEDBACK ] .
+
+
+> JIRA SUPPORTS TWO AGILE METHODOLOGIES ? 
+-- SCRUM 
+-- KANBAN 
+
+> WHAT IS SCRUM ?
+-- It is a very popular agile methology. 
+-- It breaks the project into smaller bits represented by epics and user stories. 
+  a> EPIC - It is a larger body of work, broken into stories. 
+  b> USER STORY / STORY - It a smallest unit of work. It represents a feature that needs to be developed. 
+     For user stories,  usually define a specific format like type of user involved, their golas, and the reason or benefit for that goal. 
+     User stories are prioritized. 
+     It is continuously implemented and delivered in short cycle , called as SPRINTS. 
+
+
+   
+   
