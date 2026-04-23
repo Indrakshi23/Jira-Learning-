@@ -83,6 +83,25 @@ a> To Do --> b> In progress --> Done
    Sprint Review -> Meeting helds with all team members and the features will be released. 
 
 
+> KANBAN 
+-- It a simpler form of agile development. 
+   It does consists any board to visualize the flow of the current work.
+   There are no sprints. 
+   The main goal is to complete the work without any stopage. 
+   Kanban Board will be there to maintain the workflow. 
+   It can monitors, adapt and improve as well.
+
+> KANBAN BOARD 
+-- Backlog - There will be tasks listed.
+   Selected for development - Developers will only look into this column as they will start working on items listed over here. 
+   In Progress - Here, in kanban we can set limit. If the limit is set to 1 then we can't add more that one task under this work in progress column.
+   Done - After completing we can move the task to done column.
+
+
+   
+   
+
+
    
 
 
