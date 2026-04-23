@@ -101,6 +101,15 @@ a> To Do --> b> In progress --> Done
 -- SCRUM -> mainly use for projects with defined features, where we know what to do and the time estimation as well. 
    KKANBAN -> Mainly use for support projects, unpredictable development. 
 
+> JIRA TERMS 
+-- a> ISSUES -> It represents a work item. 
+                If we create any task or ticket or anything, it's an issue( like, epic issue type, story issue type, task issue type etc. )
+   b> PROJECTS -> We can customize and do everything. 
+   c> WORKFLOW -> The status of the project and their transitions. 
+   d> VERSIONS -> Help track releases a product. jira allows to add whatever will be released we can add there. 
+   e> COMPONENTS -> It is used to group issues, or category. 
+   
+
 
 
    
