@@ -71,6 +71,20 @@ AGILE AND JIRA CONCEPTS !!
    After the end of the sprint, reviewing stories which are completed or not completed. 
    And also, to discuss what went well during the sprint and to improve during the next sprint. 
 
+IN JIRA, WE CAN SEE THE STATUS OF THE BACKLOG FOR THE CURRENT SPRINT AND UPDATE IT ACCORDINGLY. 
+a> To Do --> b> In progress --> Done 
+
+> SCRUM SUMMARY 
+-- Product Owner -> Creates and manages the product backlog, filling backlog items or user stories. 
+   Development Team -> Sprint planning meeting happens including all the developers to achieve the sprint goal.
+                       During this process, the developer give estimation about hoe much it will be needed for them to complete. 
+   Daily Scrum -> Everyday meeting happens for atleast 15 mins to discuss about the sprint. 
+                  Scrum master facilitates this meet and ensures the team is on track and there are no blockers for the sprint.
+   Sprint Review -> Meeting helds with all team members and the features will be released. 
+
+
+   
+
 
 
    
