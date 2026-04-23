@@ -54,6 +54,24 @@ AGILE AND JIRA CONCEPTS !!
    They also make sure there are no blockers for that sprint which would prevent the sprint goal to achieve.
 
 
+> SCRUM EVENTS ?
+-- SPRINT PLANNING
+   In this stage, sprint backlog created from product backlog, which means the highest priority feature from the product backlog that the development team can work on during the next sprint.
+   Then, the development team will provide their estimate time (story points or hours) needed for that backlog feature. 
+   These all plan happens during the Sprint Planning Meeting. 
+   Then, the sprint starts. 
+-- DAILY SCRUM 
+   After the sprint starts, the daily scrum meeting happens with all the members of the team. 
+   The meet mainly facilitates by the scrum master. 
+   In this meeting, minimum time is limited to 15 mins. 
+   The team members what they did yesterday, what are their plans today and do they have any blockers. 
+   In case, they have blockers the scrum master steps in and work with them to unblock the blockers they are facing. 
+   Scrum call happens everyday for the ongoing sprint. 
+-- SPRINT REVIEW 
+   After the end of the sprint, reviewing stories which are completed or not completed. 
+   And also, to discuss what went well during the sprint and to improve during the next sprint. 
+
+
 
    
 
