@@ -32,6 +32,29 @@ AGILE AND JIRA CONCEPTS !!
 > SCRUM FLOW ?
 -- It starts of with a product Backlog that contains all the features you want to build in a form of user stories. 
    The features and stories are prioritized and the most important feature or stories will be on the top of the backlog.
+   Sprint Backlog basically means these are the features the team will implement during the current sprint. 
+   Sprint is basically a pre-determined iteration (usually 2 to 4 weeks) where the development team takes the ticket from the sprint backlog and mark it as done by the end of the sprint. 
+   During the sprint, the team will have a daily meeting called as DAILY SCRUM MEETING at a same time and place and discuss the progress and make sure it is on track. 
+   Then, the release part comes in the picture, where the features will be released to the customers and they will give us feedback. 
+
+
+> SCRUM ROLES ?
+-- PRODUCT OWNER 
+   He/ She basically owns the product.
+   In other words,  they defines the vision of the product. 
+   They defines what should be built and why. 
+   They are responsible for defining what goes into the product backlog. 
+   They also creates  the user stories, prioritizes them and make sure it is done. 
+-- DEVELOPMENT TEAM 
+   They basically builds the product. 
+   They are responsible for providing end features at the end of the sprint.
+-- SCRUM MASTER 
+   They facilitates the scrum process.
+   They make sure the team is on track.
+   They also make sure there are no blockers for that sprint which would prevent the sprint goal to achieve.
+
+
+
    
 
    
