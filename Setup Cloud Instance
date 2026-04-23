@@ -6,4 +6,24 @@
    3> Sign up
    4> Select Scrum (By default)
    5> Give Project Name and team name. 
-   6> 
+   6> Click Ok.
+
+> IF WE WANT TO CHANGE AND MANAGE PLANS 
+-- 1> Go to settings
+   2> Billing Preview
+   3> Manage
+   4> Choose the required plan 
+   5> Click ok
+
+> HOW TO CREATE A BOARD 
+-- We can create it with two types. 
+   SCRUM and KANBAN .
+
+  1> cick on search bar
+  2> Select Board
+  3> Select a scrum board with Sample data. (If you are the admin, then only you can see this option)
+  4> Give the project name, and keeping all things default (for myself).
+  5> Click on Create Board.
+  6> 
+   
+
