@@ -9,7 +9,7 @@ AGILE AND JIRA CONCEPTS !!
    Feedback is then gathered, and used to plan the next iteration. 
    This process continues until the product is fully completed. 
    This process allows the team to adapt the changing requirements. 
-   Suppose, If some requirements change as the iterations are relatively short we can manage that in the next iteration. 
+   Suppose, If some requirements change and as the iterations are relatively short we can manage that in the next iteration. 
    Keeps the development flexible.
    At the end of iteration, we need to deliver a group of features for customer satisfaction, so they can test the features and give feedbacks. 
 
@@ -69,7 +69,7 @@ AGILE AND JIRA CONCEPTS !!
    Scrum call happens everyday for the ongoing sprint. 
 -- SPRINT REVIEW 
    After the end of the sprint, reviewing stories which are completed or not completed. 
-   And also, to discuss what went well during the sprint and to improve during the next sprint. 
+   And also, to discuss what went well during the sprint and what to improve during the next sprint. 
 
 IN JIRA, WE CAN SEE THE STATUS OF THE BACKLOG FOR THE CURRENT SPRINT AND UPDATE IT ACCORDINGLY. 
 a> To Do --> b> In progress --> Done 
@@ -77,7 +77,7 @@ a> To Do --> b> In progress --> Done
 > SCRUM SUMMARY 
 -- Product Owner -> Creates and manages the product backlog, filling backlog items or user stories. 
    Development Team -> Sprint planning meeting happens including all the developers to achieve the sprint goal.
-                       During this process, the developer give estimation about hoe much it will be needed for them to complete. 
+                       During this process, the developer give estimation about how much time it will be needed for them to complete. 
    Daily Scrum -> Everyday meeting happens for atleast 15 mins to discuss about the sprint. 
                   Scrum master facilitates this meet and ensures the team is on track and there are no blockers for the sprint.
    Sprint Review -> Meeting helds with all team members and the features will be released. 
@@ -94,7 +94,7 @@ a> To Do --> b> In progress --> Done
 > KANBAN BOARD 
 -- Backlog - There will be tasks listed.
    Selected for development - Developers will only look into this column as they will start working on items listed over here. 
-   In Progress - Here, in kanban we can set limit. If the limit is set to 1 then we can't add more that one task under this work in progress column.
+   In Progress - Here, in kanban we can set limit. If the limit is set to 1 then we can't add more than one task under this work in progress column.
    Done - After completing we can move the task to done column.
 
 > EXAMPLES 
